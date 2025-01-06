@@ -21,3 +21,6 @@ Basic Syntax:
 ```
 let varibaleName: type = value
 ```
+
+
+ 
